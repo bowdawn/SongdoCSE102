@@ -177,22 +177,7 @@ header {
 .main {
 	margin-left: 320px;
 }
- .iconDetails {
- margin-left:2%;
-float:left; 
-max-height:280px;
-max-width:280px;	
-} 
 
-.container2 {
-	width:auto;
-	max-height:280px;
-	padding:1%;
-    float:left;
-}
-h4{margin:0}
-.left {float:left;width:auto;max-width:500px;}
-.right {float:left;margin:0 0 0 40px;max-width:500px;}
 @media screen and (max-height: 450px) {
 	.sidenav {
 		padding-top: 15px;
@@ -668,17 +653,13 @@ label.error {
 
 
 
-
-
-
-
 table {
   text-align: left;
   line-height: 40px;
   border-collapse: separate;
   border-spacing: 0;
   border: 2px solid #ed1c40;
-  width: 500px;
+  width: 400px;
   margin: 50px auto;
   border-radius: .25rem;
 }
@@ -1251,6 +1232,22 @@ p.text-white a {
 	}
 
 }
+ .iconDetails {
+ margin-left:2%;
+float:left; 
+max-height:280px;
+max-width:280px;	
+} 
+
+.container2 {
+	width:auto;
+	max-height:280px;
+	padding:1%;
+    float:left;
+}
+h4{margin:0}
+.left {float:left;width:auto;max-width:500px;}
+.right {float:left;margin:0 0 0 40px;max-width:500px;}
 
 
 
